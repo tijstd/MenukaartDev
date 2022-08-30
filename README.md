@@ -7,7 +7,7 @@ winkelmandje klopt wordt het totaal bedrag weergegeven. Indien het winkelmandje 
 geleegd en kan de user opnieuw beginnen met bestellen.
 
 
-### Start het programma via powershell dan zie je meuk.ps1. Dit is het bestand waar de code staat om het programma te runnen. In de file "Menu.json" zit de 
+### Download powershell en Start het programma via powershell dan zie je meuk.ps1. Dit is het bestand waar de code staat om het programma te runnen. In de file "Menu.json" zit de 
 van het restaurant opgeslagen als json file. 
 
 
