@@ -11,10 +11,11 @@ geleegd en kan de user opnieuw beginnen met bestellen.
 van het restaurant opgeslagen als json file. 
 
 
-# gebruik
 
-Start programma (met VS code)
- door op de run knop rechtsboven te klikken. 
+# Gebruik
+
+Start programma (met VS code) door op de run knop rechtsboven te klikken. Zorg ervoor dat beide files in de working directory staan.
+ 
  
  Dan verschijnt de menukaart in beeld gebracht en start het programma. 
 
